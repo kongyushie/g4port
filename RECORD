@@ -1,0 +1,5 @@
+in isotope.h
+with class G4IsotopeVector G4ElementTable
+
+in threeVector.h
+hasn't been porting. i can't do any build.

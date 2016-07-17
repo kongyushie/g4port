@@ -1,0 +1,9 @@
+
+
+typedef int material;
+typedef int element;
+typedef int particleDefinition;
+typedef int dynamicParticle;
+typedef int nucleus;
+typedef int isotope;
+
